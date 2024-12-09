@@ -141,17 +141,9 @@ INSERT INTO Person VALUES (27, 'Oliver', 'Nelson', TO_DATE('1986-07-30', 'YYYY-M
 INSERT INTO Person VALUES (28, 'Harper', 'Robinson', TO_DATE('1990-12-20', 'YYYY-MM-DD'), 'Female', 'Employed', 'General Practitioner', 9);
 INSERT INTO Person VALUES (29, 'Mason', 'Walker', TO_DATE('1984-09-12', 'YYYY-MM-DD'), 'Male', 'Self-employed', 'Engineer', 9);
 INSERT INTO Person VALUES (30, 'Ella', 'Lopez', TO_DATE('1997-05-13', 'YYYY-MM-DD'), 'Female', 'Unemployed', 'Artist', 9);
-
--- Insert Prime Minister of the United Kingdom (England)
 INSERT INTO Person VALUES (31, 'Keir', 'Starmer', TO_DATE('1962-09-02', 'YYYY-MM-DD'), 'Male', 'Employed', 'Politician', 1);
-
--- Insert First Minister of Scotland
 INSERT INTO Person VALUES (32, 'John', 'Swinney', TO_DATE('1964-04-13', 'YYYY-MM-DD'), 'Male', 'Employed', 'Politician', 8);
-
--- Insert First Minister of Wales
 INSERT INTO Person VALUES (33, 'Eluned', 'Morgan', TO_DATE('1967-02-16', 'YYYY-MM-DD'), 'Female', 'Employed', 'Politician', 3);
-
--- Insert First Minister of Northern Ireland
 INSERT INTO Person VALUES (34, 'Michelle', 'ONeill', TO_DATE('1977-01-10', 'YYYY-MM-DD'), 'Female', 'Employed', 'Politician', 5);
 
 
